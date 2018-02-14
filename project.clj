@@ -1,4 +1,4 @@
-(defproject bincoinj-clj "0.0.1"
+(defproject bincoinj-clj "0.0.1-SNAPSHOT"
   :description "bitconj wrapper"
   :url "https://github.com/micrub/bincoinj-clj"
   :license {:name "Eclipse Public License"
